@@ -55,6 +55,7 @@
   },
   "packageManager": "pnpm@7.9.0",
   "devDependencies": {
+    "@knodes/typedoc-plugin-pages": "^0.23.1",
     "@tsconfig/node12": "latest",
     "@types/base64-url": "^2.2.0",
     "@types/node": "latest",
@@ -63,6 +64,7 @@
     "concurrently": "latest",
     "eslint": "latest",
     "eslint-plugin-prettier": "latest",
+    "lunr": "^2.3.0",
     "prettier": "latest",
     "ts-eager": "latest",
     "tsup": "latest",
